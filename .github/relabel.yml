@@ -1,0 +1,4 @@
+pulls:
+    # The missing label which will be added to pull requests if the regex doesn't match any other labels
+  - missingLabel: needs-attribution
+    regex: attribution:.*
